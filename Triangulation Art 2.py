@@ -6,6 +6,7 @@ from scipy.spatial import Delaunay
 from PIL import Image, ImageDraw
 
 def draw_triangulation(img, triangulation, points):
+    print("hi Nolan")
     """
     This function draws the art given an image and triangulation.
 
